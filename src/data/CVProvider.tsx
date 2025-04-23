@@ -6,7 +6,7 @@ import { CVContext, CVContextType } from "./CVContext";
 // Utility function to load CV from JSON file
 const loadCV = async (): Promise<CV> => {
   try {
-    const response = await axios.get("/cv.json");
+    const response = await axios.get("./cv.json");
     return response.data;
   } catch (error) {
     console.error("Error loading sample CV:", error);
