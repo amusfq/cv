@@ -1,0 +1,229 @@
+{
+  "personalInfo": {
+    "name": "Achmad Musyaffa Taufiqi",
+    "title": "FullStack Developer",
+    "email": "mail@amusfq.dev",
+    "phone": "+62 896 1289 0670",
+    "location": "Tangerang, Indonesia",
+    "website": "https://amusfq.dev",
+    "linkedin": "linkedin.com/in/amusfq",
+    "github": "github.com/amusfq",
+    "summary": "FullStack Developer with 4+ years of experience in modern JavaScript frameworks, backend technologies, and UI/UX design. Passionate about creating responsive, user-friendly web applications with clean code and performance optimization. Strong skills in React, Next.js, Node.js, and TypeScript."
+  },
+  "skillCategories": [
+    {
+      "category": "Frontend",
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "HTML/CSS",
+        "TailwindCSS",
+        "Bootstrap",
+        "MUI",
+        "Responsive Design"
+      ]
+    },
+    {
+      "category": "Backend",
+      "skills": [
+        "Node.js",
+        "Express",
+        "NestJS",
+        "Laravel",
+        ".NET",
+        "PHP",
+        "REST API"
+      ]
+    },
+    {
+      "category": "Databases",
+      "skills": ["MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase"]
+    },
+    {
+      "category": "DevOps",
+      "skills": ["Docker", "CI/CD", "VPS", "Linux", "Nginx", "Apache"]
+    },
+    {
+      "category": "Tools & Others",
+      "skills": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "UI/UX Design",
+        "Figma",
+        "Vercel",
+        "Self-Host"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT HaloTec Indonesia",
+      "position": "Man to Machine Product Development Engineer",
+      "startDate": "2023-07",
+      "endDate": "Present",
+      "location": "Jakarta, Indonesia",
+      "description": "Working on the development of Man to Machine products focusing on frontend technologies and microservice architecture.",
+      "achievements": [
+        "Developed responsive web applications using React.js and TypeScript following best practices and design patterns",
+        "Implemented RESTful APIs and microservices using Laravel for improved scalability and maintainability",
+        "Collaborated with cross-functional teams to deliver high-quality software solutions that meet business requirements",
+        "Implemented CI/CD pipelines to streamline the development and deployment processes"
+      ],
+      "technologies": ["React.js", "TypeScript", "Laravel", "REST API"]
+    },
+    {
+      "company": "PT Vodjo Teknologi Indonesia",
+      "position": "FullStack Developer",
+      "startDate": "2022-09",
+      "endDate": "2023-06",
+      "location": "Bandung, Indonesia",
+      "description": "Worked in a remote agile environment developing full-stack web applications with modern technologies.",
+      "achievements": [
+        "Developed and maintained scalable web applications using React.js for frontend and Golang/Node.js for backend services",
+        "Translated UI/UX design wireframes into responsive and pixel-perfect interfaces using modern frontend technologies",
+        "Implemented RESTful APIs and integrated third-party services to enhance application functionality"
+      ],
+      "technologies": ["React.js", "Golang", "Node.js", "Figma", "Gitlab"]
+    },
+    {
+      "company": "PT ITPI Technology",
+      "position": "FullStack Developer",
+      "startDate": "2021-06",
+      "endDate": "2022-09",
+      "location": "Surabaya, Indonesia",
+      "description": "Specialized in enterprise software development focusing on eProcurement solutions for large organizations.",
+      "achievements": [
+        "Designed and developed an enterprise-grade eProcurement web application using Angular for frontend and Java for backend services",
+        "Implemented complex business logic based on client requirements and industry best practices",
+        "Developed integration layers between eProcurement systems and SAP using Java, ensuring seamless data flow between systems",
+        "Optimized application performance through code refactoring and improved database queries, reducing page load times"
+      ],
+      "technologies": ["Angular", "Java", "SAP", "Figma", "Gitlab"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitas Narotama",
+      "degree": "Bachelor of Science",
+      "field": "Informatics Engineering",
+      "startDate": "2019",
+      "endDate": "2023",
+      "description": "GPA: 3.86/4.0 | Specialization in Software Development | Participated in Narotama Language Club and Capture The Flag (CTF) competitions | Key courses: Algorithms, Data Structures, Web Development, Database Management, Network Security"
+    },
+    {
+      "institution": "SMK YPM 1 TAMAN Sidoarjo",
+      "degree": "Vocational Diploma",
+      "field": "Computer and Network Engineering",
+      "startDate": "2016",
+      "endDate": "2019",
+      "description": "Focus on practical software programming, web development, and networking fundamentals | Completed capstone project implementing network infrastructure solutions"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Kerjo",
+      "description": "Job portal and employment service application for Kediri Regency Government, providing streamlined access to local employment opportunities and government services.",
+      "technologies": ["Android", "React Native", "Mobile Development"],
+      "link": "https://play.google.com/store/apps/details?id=dev.amusfq.ekerjo"
+    },
+    {
+      "name": "ShieldTech",
+      "description": "Comprehensive school management system featuring student tracking, academic reporting, and administrative tools for streamlined educational operations.",
+      "technologies": ["ReactJS", "Laravel", "TailwindCSS", "MUI", "Figma"],
+      "link": "https://shieldtech.highscope.or.id"
+    },
+    {
+      "name": "CarWash",
+      "description": "End-to-end car wash management solution with appointment scheduling, inventory tracking, staff management, and financial reporting capabilities.",
+      "technologies": ["React Native", "ExpressJS", "Node.js"]
+    },
+    {
+      "name": "Cakrawala",
+      "description": "Data analytics platform leveraging AI for business intelligence, offering customizable dashboards and predictive modeling for strategic decision-making.",
+      "technologies": ["ReactJS", "NestJS", "FastAPI", "Python"],
+      "link": "https://cakrawala-dn.com"
+    },
+    {
+      "name": "DiriCare",
+      "description": "Over-the-counter healthcare module integrating with telemedicine platforms to enhance patient self-care options and medication management.",
+      "technologies": ["NextJS", "TypeScript", "TailwindCSS"],
+      "link": "https://diricare.com/hello"
+    },
+    {
+      "name": "Kedas",
+      "description": "Proprietary internal ordering system with real-time inventory tracking, order processing automation, and performance analytics dashboards.",
+      "technologies": ["NextJS", "TypeScript", "TailwindCSS"]
+    },
+    {
+      "name": "U.ID",
+      "description": "Modern redesign of Indonesia's domain registry platform featuring improved user experience, responsive design, and optimized performance.",
+      "technologies": ["NextJS", "TypeScript", "TailwindCSS"],
+      "link": "https://u.id"
+    },
+    {
+      "name": "PANDI.ID",
+      "description": "Corporate website with integrated single sign-on authentication and RDAP protocol implementation for domain registration compliance.",
+      "technologies": ["NextJS", "TypeScript", "TailwindCSS"],
+      "link": "https://pandi.id"
+    },
+    {
+      "name": "TORSI",
+      "description": "B2B marketplace for heavy equipment trading with advanced search, comparison tools, and secure transaction management features.",
+      "technologies": ["ReactJS", "TailwindCSS"],
+      "link": "https://torsi.demoapp.xyz"
+    },
+    {
+      "name": "Anugrah Farm",
+      "description": "Enterprise resource planning system for poultry farm management with integrated supply chain tracking, financial reporting, and business intelligence tools.",
+      "technologies": ["ReactJS", "TailwindCSS", "Laravel"],
+      "link": "https://app.anugrahfarm.com"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Linux System Administrator",
+      "issuer": "Dicoding Indonesia",
+      "issueDate": "2023-06",
+      "expiryDate": "2026-06",
+      "link": "https://www.dicoding.com/certificates/1RXY6EOL9ZVM"
+    },
+    {
+      "name": "Dasar-Dasar DevOps",
+      "issuer": "Dicoding Indonesia",
+      "issueDate": "2023-05",
+      "expiryDate": "2026-05",
+      "link": "https://www.dicoding.com/certificates/N9ZO6MR98XG5"
+    },
+    {
+      "name": "Jaringan Komputer untuk Pemula",
+      "issuer": "Dicoding Indonesia",
+      "issueDate": "2023-05",
+      "expiryDate": "2026-05",
+      "link": "https://www.dicoding.com/certificates/JLX1D4GG6Z72"
+    },
+    {
+      "name": "Professional English Certificate",
+      "issuer": "English Score",
+      "issueDate": "2023-02",
+      "expiryDate": "2025-02",
+      "link": "https://engsco.re/9bad2194"
+    },
+    {
+      "name": "Prinsip Pemrograman SOLID",
+      "issuer": "Dicoding Indonesia",
+      "issueDate": "2021-04",
+      "expiryDate": "2024-04",
+      "link": "https://www.dicoding.com/certificates/98XW68Y00XM3"
+    },
+    {
+      "name": "MikroTik Certified Network Associate (MTCNA)",
+      "issuer": "MikroTik",
+      "issueDate": "2019-05",
+      "expiryDate": "2022-05",
+      "link": "https://mikrotik.com/training/certificates/b152551c20579cc781a3"
+    }
+  ]
+}
